@@ -1,1 +1,2 @@
 This is file 4 from Nanak/source2
+This line is added after commit 1
